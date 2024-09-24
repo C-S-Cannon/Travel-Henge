@@ -33,7 +33,9 @@ setup(
     # packages required to run the setup script itself
     dependency_links=[],
     # URLS to be searched for setup_requires dependencies
-    install_requires=[],
+    install_requires=[
+        'astropy>=6.1.3'
+    ],
     # packages required for the distribution package to function
 
     # ***distribution metadata***
