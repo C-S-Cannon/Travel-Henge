@@ -1,0 +1,8 @@
+Travelhenge method
+    - Calculate positions of two points on surface of earth
+    - Calculate the delta between them and project an orthogonal ray
+    - Check if ray aligns with region between solstices
+    - Calculate on what day a henge exists
+
+Package outline
+    - hengeMap: For the conversion of coordinates and map usage
